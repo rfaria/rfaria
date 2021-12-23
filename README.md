@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rodrigo Candido Faria.
 - 👀 I’m interested in solving problems through technology.
-- 🌱 I’m currently learning more about AI.
+- 🌱 I’m currently learning more about AI and improving my coding skills for web development.
 - 💞️ I’m looking to collaborate mainly on AI and machine learning projects.
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/rodrigocfaria/)
 
