@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Rodrigo Candido Faria.
-- 👀 I’m interested in solving problems through technology.
-- 🌱 I’m currently learning more about AI and improving my coding skills for web development.
-- 💞️ I’m looking to collaborate mainly on AI and machine learning projects.
+- 📚 I have a BSc in Applied Mathematics and a MSc in Statistics, both from the [University of Sao Paulo](https://www6.usp.br/english/institutional/)
+- 👨‍💼 I've been working with Data Science since 2011.
+- 🌱 I’m currently practicing my AI and software engineering skills.
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/rodrigocfaria/)
 
 <!---
