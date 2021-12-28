@@ -1,25 +1,3 @@
-Some of my "old" skills: 
-- Statistics
-- Mathematics
-- R programming
-- Qlikview
-- SAS
-- Stata
-- SPSS
-- HTML
-- CSS
-- Java
-- C
-
-Some of my "new" skill:
-- HTML
-- CSS
-- Bootstrap
-- JavaScript
-- Python
-- Django
-
-<!--
 - 👋 Hi, I’m Rodrigo Candido Faria.
 - 👨‍💼 I've been working with Data Science since 2011.
 - 📚 I have a BSc in Applied Mathematics and a MSc in Statistics, both from the University of Sao Paulo.
@@ -27,7 +5,11 @@ Some of my "new" skill:
 - 👨‍🏫 I have also worked as a research assistant for the London School of Economics and Columbia University.
 - 🌱 I’m currently practicing my AI and software engineering skills.
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/rodrigocfaria/)
--->
+
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+
+
 <!---
 rfaria/rfaria is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
