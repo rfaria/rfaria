@@ -4,8 +4,7 @@
 - 🏢 I worked for companies like Deloitte, Nielsen, Accenture, and Mercado Libre.
 - 👨‍🏫 I have also worked as a research assistant for the London School of Economics and Columbia University.
 - 🌱 I’m currently practicing my AI and software engineering skills.
-- 📫 How to reach me:
-  - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigocfaria/)
+- 📫 How to reach me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5??style=plastic&logo=appveyor&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigocfaria/)
 
 ## Languages
 
