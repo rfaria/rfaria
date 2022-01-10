@@ -1,9 +1,9 @@
 - 👋 Hi, I’m Rodrigo Candido Faria.
 - 👨‍💼 I've been working with Data Science and Machine Learning since 2011.
 - 📚 I have a BSc in Applied Mathematics and a MSc in Statistics, both from the University of Sao Paulo.
-- 🏢 I worked for companies like Deloitte, Nielsen, Accenture, and Mercado Libre.
+- 🏢 I worked for companies like Deloitte and Accenture. Now I freelance as an independent consultant.
 - 👨‍🏫 I have also worked as a research assistant for the London School of Economics and Columbia University.
-- 🌱 I’m currently practicing my AI and software engineering skills.
+- 🌱 I’m currently practicing general software engineering skills.
 - 📫 How to reach me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5??style=plastic&logo=appveyor&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigocfaria/)
 
 ## Languages
