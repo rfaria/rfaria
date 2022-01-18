@@ -6,7 +6,7 @@
 - 🌱 I’m currently practicing general software engineering skills.
 - 📫 How to reach me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigocfaria/)
 
-[![Rodrigo's GitHub stats](https://github-readme-stats.vercel.app/api?username=rfaria&count_private=true&theme=outrun&hide=stars,commits,prs,issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
+[![Rodrigo's GitHub stats](https://github-readme-stats.vercel.app/api?username=rfaria&count_private=true&theme=outrun&hide=stars,commits,prs,issues,contribs&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Languages
 
