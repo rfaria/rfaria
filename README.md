@@ -10,9 +10,8 @@
 
 [![Rodrigo's GitHub stats](https://github-readme-stats.vercel.app/api?username=rfaria&count_private=true&theme=outrun&show_icons=true&hide=contribs,stars)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rfaria)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rfaria&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
-https://github-readme-streak-stats.herokuapp.com/?user={rfaria}
 
 ## Languages
 
