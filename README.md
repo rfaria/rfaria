@@ -4,7 +4,7 @@
 - 🏢 I worked for companies like Deloitte and Accenture. Now I freelance as an independent consultant.
 - 👨‍🏫 I have also worked as a research assistant for the London School of Economics and Columbia University.
 - 🌱 I’m currently practicing general software engineering skills.
-- 📫 How to reach me: <a href="https://www.linkedin.com/in/rodrigocfaria/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" display="inline" padding-top="50px"/></a>
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/rodrigocfaria/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" align="center"/></a>
 
 
 
