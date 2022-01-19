@@ -10,7 +10,7 @@
 [![Rodrigo's GitHub stats](https://github-readme-stats.vercel.app/api?username=rfaria&count_private=true&theme=outrun&show_icons=true&hide=contribs,stars)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rfaria&langs_count=8&layout=compact&theme=outrun)](https://github.com/anuraghazra/github-readme-stats)
 -->
 
-<img src="https://github-readme-stats.vercel.app/api?username=rfaria&count_private=true&theme=outrun&show_icons=true&hide=contribs,stars" width="45%" align="center"/> &nbsp <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rfaria&langs_count=8&layout=compact&theme=outrun" width="35%" align="center"/>
+<img src="https://github-readme-stats.vercel.app/api?username=rfaria&count_private=true&theme=outrun&show_icons=true&hide=contribs,stars" width="45%" align="center"/> &nbsp; <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rfaria&langs_count=8&layout=compact&theme=outrun" width="35%" align="center"/>
 
 
 <!--[![Rodrigo's GitHub stats](https://github-readme-stats.vercel.app/api?username=rfaria&count_private=true&theme=outrun&show_icons=true&hide=contribs,stars)](https://github.com/anuraghazra/github-readme-stats)
