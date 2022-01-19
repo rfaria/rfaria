@@ -5,7 +5,7 @@
 - 👨‍🏫 I have also worked as a research assistant for the London School of Economics and Columbia University.
 - 🌱 I’m currently practicing general software engineering skills.
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/rodrigocfaria/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" align="center"/></a>
-
+| Time         | Length        |
 :-------------------------:|:-------------------------:
 [![Rodrigo's GitHub stats](https://github-readme-stats.vercel.app/api?username=rfaria&count_private=true&theme=outrun&show_icons=true&hide=contribs,stars)](https://github.com/anuraghazra/github-readme-stats)  |  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rfaria&langs_count=8&layout=compact&theme=outrun)](https://github.com/anuraghazra/github-readme-stats)
 
