@@ -10,6 +10,8 @@
 
 [![Rodrigo's GitHub stats](https://github-readme-stats.vercel.app/api?username=rfaria&count_private=true&theme=outrun&show_icons=true&hide=contribs,stars)](https://github.com/anuraghazra/github-readme-stats)
 
+https://github-readme-streak-stats.herokuapp.com/?user={rfaria}
+
 ## Languages
 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=appveyor&logo=css3&logoColor=white)
