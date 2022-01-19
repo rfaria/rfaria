@@ -1,3 +1,9 @@
+<style>
+td, th {
+   border: none!important;
+}
+</style>
+
 - <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="20" height="20"/> Hi, I’m Rodrigo Candido Faria.
 - 👨‍💼 I've been working with Data Science and Machine Learning since 2011.
 - 📚 I have a BSc in Applied Mathematics and a MSc in Statistics, both from the University of Sao Paulo.
