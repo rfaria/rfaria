@@ -1,8 +1,7 @@
 - <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="20" height="20"/> Hey! I’m Rodrigo.
 - 👨‍💼 I've been working with Data Science since 2011.
-- 📚 I have a BSc in Applied Mathematics and a MSc in Statistics, both from the University of Sao Paulo.
-- 🏢 I worked for companies like Deloitte and Accenture. <!--Now I freelance as an independent consultant.-->
-- 👨‍🏫 I have also worked as a research assistant for the London School of Economics and Columbia University.
+- 📚 I majored in Applied Mathematics and got a master's degree in Statistics at the University of Sao Paulo in Brazil.
+- 🏢 I was a research assistant at the London School of Economics and Columbia University. I've also worked at Deloitte and Accenture.
 - 🌱 I’m currently practicing general software engineering skills.
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/rodrigocfaria/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" align="center"/></a>
 
