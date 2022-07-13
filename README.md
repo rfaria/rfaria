@@ -1,4 +1,4 @@
-- <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="20" height="20"/>Hey! I’m Rodrigo.
+- <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="20" height="20"/> Hey! I’m Rodrigo.
 - 👨‍💼 I've been working with Data Science since 2011.
 - 📚 I have a BSc in Applied Mathematics and a MSc in Statistics, both from the University of Sao Paulo.
 - 🏢 I worked for companies like Deloitte and Accenture. <!--Now I freelance as an independent consultant.-->
