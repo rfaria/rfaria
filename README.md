@@ -3,7 +3,7 @@
 - 📚 I majored in Applied Mathematics and got a master's degree in Statistics at the University of Sao Paulo in Brazil.
 - 🏢 I was a research assistant at the London School of Economics and Columbia University. I've also worked at Deloitte and Accenture.
 - 🌱 I’m currently practicing general software engineering skills.
-- 📫 How to reach me: <a href="https://www.linkedin.com/in/rodrigocfaria/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" align="center"/></a>
+<!-- - 📫 How to reach me: <a href="https://www.linkedin.com/in/---/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" align="center"/></a>-->
 
 <!-- https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white -->
 
