@@ -1,5 +1,5 @@
 - <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="20" height="20"/> Hey! I’m Rodrigo.
-- 👨‍💼 I've been working with Data Science since 2011.
+- 👨‍💼 I've been working with software engineering and data science since 2011.
 - 📚 I majored in Applied Mathematics and got a master's degree in Statistics at the University of Sao Paulo in Brazil.
 - 🏢 I was a research assistant at Columbia University. I've worked at startups and for big companies like Accenture and Nielsen.
 - 🌱 I’m currently practicing general software engineering skills.
